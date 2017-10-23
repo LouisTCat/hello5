@@ -19,6 +19,8 @@ You can also create unordered lists:
 * Item 4
 * Item 5
 
+Fred
+
 And also ordered lists (of course): 
  
 1. Item 1
